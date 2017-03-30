@@ -1,0 +1,1814 @@
+ident
+sphere
+0 0 0 100
+torus
+0 0 0 10 200
+rotate
+y 20
+rotate
+z 40
+rotate
+x 10
+move
+250 250 0
+apply
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic000.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic001.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic002.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic003.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic004.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic005.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic006.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic007.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic008.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic009.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic010.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic011.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic012.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic013.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic014.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic015.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic016.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic017.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic018.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic019.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic020.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic021.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic022.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic023.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic024.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic025.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic026.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic027.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic028.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic029.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic030.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic031.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic032.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic033.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic034.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic035.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic036.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic037.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic038.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic039.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic040.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic041.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic042.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic043.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic044.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic045.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic046.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic047.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic048.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic049.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic050.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic051.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic052.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic053.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic054.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic055.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic056.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic057.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic058.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic059.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic060.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic061.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic062.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic063.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic064.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic065.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic066.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic067.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic068.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic069.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic070.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic071.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic072.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic073.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic074.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic075.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic076.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic077.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic078.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic079.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic080.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic081.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic082.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic083.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic084.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic085.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic086.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic087.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic088.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic089.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic090.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic091.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic092.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic093.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic094.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic095.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic096.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic097.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic098.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic099.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic100.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic101.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic102.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic103.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic104.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic105.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic106.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic107.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic108.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic109.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic110.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic111.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic112.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic113.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic114.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic115.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic116.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic117.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic118.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic119.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic120.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic121.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic122.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic123.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic124.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic125.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic126.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic127.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic128.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic129.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic130.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic131.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic132.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic133.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic134.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic135.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic136.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic137.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic138.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic139.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic140.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic141.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic142.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic143.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic144.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic145.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic146.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic147.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic148.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic149.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic150.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic151.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic152.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic153.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic154.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic155.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic156.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic157.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic158.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic159.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic160.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic161.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic162.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic163.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic164.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic165.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic166.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic167.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic168.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic169.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic170.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic171.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic172.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic173.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic174.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic175.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic176.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic177.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic178.png
+ident
+move
+-250 -250 0
+rotate
+z 1
+move
+250 250 0
+apply
+save
+images/pic179.png
